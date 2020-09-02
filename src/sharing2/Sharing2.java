@@ -16,6 +16,7 @@ public class Sharing2 {
      */
     public static void main(String[] args) {
         System.out.println("Hello you loser");
+        System.out.println("Joao was here");
     }
     
 }
